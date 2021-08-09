@@ -1,0 +1,11 @@
+
+###
+GET http://localhost:3000/
+###
+GET http://localhost:3000/api/usuarios
+###
+GET http://localhost:3000/api/usuarios/3
+###
+GET http://localhost:3000/api/objeto/1988/11
+###
+GET http://localhost:3000/api/parametro/?nombre=Leandro&apellido=Fernandez
